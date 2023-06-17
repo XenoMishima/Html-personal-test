@@ -1,1 +1,121 @@
-# Html-personal-test
+<!DOCTYPE html>
+<html>
+
+<head>
+  </nav>>About Bears</title> 
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a href="./index.html">Bears</a>
+  <a href="./aboutme.html"> About Me</a>
+  <h1>The Bears</h1>
+  <div id="introduction">
+    <h2>About Bears</h2>
+    <p>Bears (<em>family Ursidae</em>) any of the eight species of large short tailed <strong>conivores</strong> found in the American, Europe, and Asia.The <strong>Sun Bear</strong> (<em>Helarctos Malayauns</em>)
+      is the smallest often weighting less then 50kg (110 pounds). The largest bear is either the <strong>Kodiak Bear</strong> (<em>Ursus Arctos</em>) , The polar bear (<em>Ursus Maritimus</em>) depending upon which
+      measurements are considered; either of these bears can weigh up to 720kg (1600 pounds). The <strong>The Black Bear</strong> (<em>Ursus Americanus</em>)is common in parts like the Untied States and Canada. <br /><br />
+      Bears are generally omnivorous, but dietary preferences range from seals for the entirely carnivoros <strong>polar bears</strong> to assorted vegetation for the large herbivorous <strong>spectacled bear</strong>
+      (<em>Tremarctos Ornatus</em>). The <strong>Giant Panda</strong> (<em>Aliuropoda Melanoleuca</em>) eats bamboo only. usually gaining weight beforehand, most bears sleep fitfully througt much of the winter, 
+      but do not truly <em>Hibernate</em>. Despite their bulk, most bears climb with ease and swim strongly.
+    </p>
+      
+    <h3>Species</h3>
+    <ul>
+      <li>Arctos</li>
+      <li>Collarus</li>
+      <li>Horribilis</li>
+      <li>Nelsoni (extinct)</li>
+    </ul>
+   <h3>hybrids</h3>
+     <p>A grizzly polar bear hybrid (known either as a <em>Grizzly</em> bear or a grolar bear) is a rare ursid hybrid resulting from a crossbreeding of a brown bear and a polar bear. It has occurred both in captivity and in the wild. In 2006, the occurrence of this hybrid in nature was confirmed by testing the DNA of a strange-looking bear that had been shot in the Canadian Arctic, and seven more hybrids have since been confirmed in the same region, all descended from a single female polar bear. Previously, the hybrid had been produced in zoos and was considered a "cryptid" (a hypothesized animal for which there is no scientific proof of existence in the wild).
+      Analyses of the genomes of bears have shown that introgression between species was widespread during the evolution of the genus Ursus,including the introgression of polar bear DNA introduced to brown bears during the Pleistocene.
+      A bear shot in autumn 1986 in Michigan, US, was thought by some to be a grizzly/American black bear hybrid, due to its unusually large size and its proportionately larger braincase and skull. DNA testing was unable to determine whether it was a large American black bear or a grizzly bear.</p>
+      <h3>Colors</h3>
+      <p>Brown bears are often not fully brown.They have long, thick fur, with a moderately long mane at the back of the neck which varies somewhat across the types. In India, brown bears can be reddish with silver-tipped hairs, while in China brown bears are bicolored, with a yellowish-brown or whitish collar across the neck, chest and shoulders. Even within well-defined subspecies, individuals may show highly variable hues of brown. North American grizzlies can be dark brown (almost black) to cream (almost white) or yellowish-brown and often have darker-colored legs. The common name "grizzly" stems from their typical coloration, with the hairs on their back usually being brownish-black at the base and whitish-cream at the tips, giving them their distinctive "grizzled" color. Apart from the cinnamon subspecies of the American black bear (U. americanus cinnamonum), the brown bear is the only modern bear species to typically appear truly brown. The winter fur is very thick and long, especially in northern subspecies, and can reach 11 to 12 centimetres (4 to 5 in) at the withers. The winter hairs are thin, yet rough to the touch. The summer fur is much shorter and sparser and its length and density varies geographically.</p>
+   <h3>Features</h3>
+     <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
+  </div>
+  <div id="habitat">
+      <h2>Habitat</h2>
+      <h3>Countries with Large Brown Bear Populations</h3>
+     <ol>
+        <li>Russia</li>
+        <li>United States</li>
+        <li>Canada</li>
+     </ol>
+    <h3>Countries with Small Brown Bear Populations</h3>
+    <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
+  </div>
+  <div id="media">
+    <h2>Media</h2>
+    <h1>Polar Bears</h1>
+    <div id="introduction">
+      <h2>About Polar Bears</h2>
+      <p>The polar bear is a hypercarnivorous species of bear. Its native range lies largely within the Arctic Circle, encompassing the Arctic Ocean and its surrounding seas and landmasses, which includes the northernmost regions of North America and Eurasia
+        polar bear, (<em>Ursus maritimus</em>), also called white bear, sea bear, or ice bear, great white northern bear (family Ursidae) found throughout the Arctic region. The polar bear travels long distances over vast desolate expanses, generally on drifting oceanic ice floes, searching for seals, its primary prey. The polar bear is the largest and most powerful carnivore on land, a title it shares with a subspecies of brown bear called the Kodiak bear. It has no natural predators and knows no fear of humans, making it an extremely dangerous animal.
+        <br>Polar bears are stocky, with a long neck, relatively small head, short, rounded ears, and a short tail. The male, which is much larger than the female, weighs 410 to 720 kg (900 to 1,600 pounds). It grows to about 1.6 metres (5.3 feet) tall at the shoulder and 2.2–2.5 metres in length. The tail is 7–12 cm (3–5 inches) long. Sunlight can pass through the thick fur, its heat being absorbed by the bear’s black skin. Under the skin is a layer of insulating fat. The broad feet have hairy soles to protect and insulate as well as to facilitate movement across ice, as does the uneven skin on the soles of the feet, which helps to prevent slipping. Strong, sharp claws are also important for gaining traction, for digging through ice, and for killing prey.
+      </p>
+    </div>
+    <div id="Habitat">
+     <h2>Habitat</h2>
+     <h3>Countries with large Polar Bear Populations</h3>
+     <ol>
+      <li>Canada</li>
+      <li>Norway</li>
+      <li>United States</li>
+      <li>Russia</li>
+     </ol>
+    </div>
+    <div id="media">
+      <h2>Media</h2>
+      <img src="data:image/jpeg;base64,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">
+
+    </div>
+  </div>
+  <h1>grizzly bears</h1>
+  <div id="introduction">
+   <h2>About Grizzly Bears</h2>
+   <p>The Grizzly Bear is a kind of brown bear. Many people in North America use the term <strong>grizzly bear</strong> to refer to the smaller and lighter coloured bear that occurs in interior areas and the term 
+      <em>Brown Bear</em>to the larger and typically darker-coloured on coastal areas. However, most of these bears arenow considered the same subspecies. ,<br /><br />
+      Grizly Bears are large and range in colour from very light tan to dark brown. They have a dished face , short rounded ears and a large shoulder hump. The hump is where a mass of muscles attach to the bear's 
+      backbone and gives the bear additional strength for digging. They have very long claws on their foot that also give them extra ability to dig after food and to dig their dens. <br /> <br />
+      Grizzly Bears weigh upward of 700 pounds(315 kilograms). The males are heavier than females and can weigh 200 to 300 (about 400 to 600 pounds). A large female can weigh 110 to 160 kilograms (about 250 to 350 pounds)
+      in the lower-48 states. <br /> <br />
+      Grizzly Bears use sounds, movement and smells to communicate. They growl, moan or grunt, especially when females are communicating with their young or during mating season when male bears can fight each other 
+      fiercely for the opportunity to mate with receptive females. Grizzly bears also rub their bobdies on tress to scratch and to let other bears know that they are there. 
+   </p>
+   <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn More</a>
+   <a href="https://en.wikipedia.org/wiki/brown_bear" target="_blank"></a>
+   <div id="media">
+    <h2>Media</h2>
+    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" />
+    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" height="240" width="320" controls>Video not supported</video>
+  </div>
+  <h1>Giant Pandas</h1>
+  <div id="introduction">
+    <h2>About Giant Pandas</h2>
+    <p>The panda, with its distinctive black and white coat, is adored by the world and considered a national treasure in China. 
+      This bear also has a special significance for WWF because it has been our logo since our founding in 1961, Pandas live mainly in temperate forests high in the mountains of southwest China, where they subsist almost entirely on bamboo. 
+      They must eat around 26 to 84 pounds of it every day, depending on what part of the bamboo they are eating, They use their enlarged wrist bones that function as opposable thumbs, 
+      A newborn panda is about the size of a stick of butter—about 1/900th the size of its mother—but females can grow up to about 200 pounds, while males can grow up to about 300 pounds as adults. These bears are excellent tree climbers despite their bulk.
+    </p>
+     <div id="media">
+
+     </div>
+    <h2>Media</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/1920px-Grosser_Panda.JPG">    
+    <img src="https://en.wikipedia.org/wiki/File:Grosser_Panda.JPG">                                                              
+    <h2>Habitat</h2>
+    <h3>Countries with the largest Panda populations</h3>
+    ,<ol>
+      <li>China</li>
+      <li>Australia</li>
+      <li>Canada</li>
+      <li>France</li>
+      <li>Japan</li>
+    </ol>
+    <a href="https://en.wikipedia.org/wiki/Giant_panda" target="blank">Learn more</a>
+    <a href="https://en.wikipedia.org/wiki/Giant_panda" target="Blank"></a>
+  </div>
+</body>
+</html>
