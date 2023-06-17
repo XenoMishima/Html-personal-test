@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    font: initial;
+}
+h3 {
+    color: Black;
+    font: large;
+}
+div {
+    color: rgb(15, 14, 14);
+    font: bold;
+}
+title {
+    color: black;
+    font: bolder;
+}
+img{
+    width: auto;
+    height: auto;
+}
+div h2 {
+    color: brown;
+    font: optional;
+}
+body {
+    background-color: rgb(233, 226, 226);
+}
+img {
+    width: fit-content;
+}
